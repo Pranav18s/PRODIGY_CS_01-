@@ -24,8 +24,7 @@ Technologies Used
 
 Author
 Your Name
-Your LinkedIn Profile
-Your GitHub Profile
+https://www.linkedin.com/in/pranav-s-85b106269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appile
 
 License
 This project is licensed under the MIT License.
