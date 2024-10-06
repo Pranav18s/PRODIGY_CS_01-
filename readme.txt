@@ -11,7 +11,7 @@ This project is a Python program that encrypts and decrypts text using the Caesa
 ## How to Run
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher.git
+https://github.com/Pranav18s/python-project-encryption.git
 
 2.Navigate to the project directory:
 cd caesar-cipher
