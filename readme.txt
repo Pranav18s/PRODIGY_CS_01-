@@ -23,7 +23,7 @@ Technologies Used
 .Python 3.x
 
 Author
-Your Name
+pranav s
 https://www.linkedin.com/in/pranav-s-85b106269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appile
 
 License
