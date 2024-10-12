@@ -35,3 +35,21 @@ For decryption, the process is reversed using the same key.
 2. Run the script:
    ```bash
     python caesar_cipher.py
+
+🔑 Example Usage
+
+Caesar Cipher Encryption/Decryption Tool
+Do you want to (e)ncrypt or (d)ecrypt a message? (e/d):e
+Enter your message: Mango
+Enter the key value to shift (an Integer): 4
+Encrypted message: Qerks
+Do you want to encrypt/decrypt another message ? (y/n): n
+
+👤 Author
+pranav s
+www.linkedin.com/in/pranav-s-85b106269
+
+📄 License
+This project is licensed under the MIT License.
+
+
