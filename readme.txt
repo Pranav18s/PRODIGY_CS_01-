@@ -30,7 +30,7 @@ For decryption, the process is reversed using the same key.
 
 1. Clone the repository:
    ```bash
-   https://github.com/Pranav18s/python-project-encryption.git
+  git clone https://github.com/Pranav18s/python-project-encryption.git
    
 2. Run the script:
    ```bash
